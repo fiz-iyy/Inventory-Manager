@@ -1,0 +1,5 @@
+Razer,Razer,$2000,106,i7 7th Gen,GTX 3060
+XPS,Dell,$1976,14,i5 9th Gen,GTX 3070
+Alienware,Dell,$1978,300,i5 9th Gen,GTX 3070
+Swift7,Acer,$900,30,i5 9th Gen,GTX 3070
+Macbook16,Apple,$3500,20,i5 9th Gen,GTX 3070
